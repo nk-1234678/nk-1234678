@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neelam Kumari</h1>
 <h3 align="center">App and MERN stack developer passionate about Machine Learning and AI</h3>
 
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
-    </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
+</p>
    
 - 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a></li>
+- 👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a>
 - ⚡ Fun fact **Turning ideas into code, one bug at a time**
     
 
