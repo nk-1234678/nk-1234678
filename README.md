@@ -78,5 +78,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Languages](https://github-readme-stats.deno.dev/api/top-langs/?username=nk-1234678&layout=compact)
+
 
