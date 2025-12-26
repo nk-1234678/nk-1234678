@@ -64,7 +64,7 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nk-1234678&layout=compact&theme=dark" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username= nk-1234678 &layout=compact&theme=dark" alt="top languages" />
 </p>
 
 # 📊 GitHub Stats:
