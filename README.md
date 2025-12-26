@@ -3,19 +3,26 @@
 
 
 
-<p align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</p>
+<div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; border-radius: 10px; max-width: 700px; margin: 20px auto; background-color: #f9f9f9;">
+  
+  <!-- Left side: GIF -->
+  <div style="flex: 1; text-align: left;">
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  </div>
+  
+  <!-- Right side: Content -->
+  <div style="flex: 2; text-align: left; padding-left: 20px;">
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
+    </p>
+    <ul>
+      <li>🌱 I’m currently learning <strong>Python</strong></li>
+      <li>👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a></li>
+      <li>⚡ Fun fact: <strong>Turning ideas into code, one bug at a time</strong></li>
+    </ul>
+  </div>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
-</p>
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at <br/> https://portfolio-three-rust-93.vercel.app/
-
-- ⚡ Fun fact **Turning ideas into code, one bug at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
