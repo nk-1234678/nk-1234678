@@ -78,3 +78,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk-1234678&show_icons=true&theme=radical)
+
