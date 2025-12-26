@@ -3,25 +3,26 @@
 
 
 
-<div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; border-radius: 10px; max-width: 700px; margin: 20px auto; background-color: #f9f9f9;">
+<div style="display: flex; align-items: flex-start; border: 1px solid #ccc; padding: 15px; border-radius: 10px; max-width: 700px; margin: 20px auto; background-color: #f9f9f9;">
   
-  <!-- Left side: GIF -->
-  <div style="flex: 1; text-align: left;">
+  <!-- Left: GIF -->
+  <div style="margin-right: 20px;">
     <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   </div>
   
-  <!-- Right side: Content -->
-  <div style="flex: 2; text-align: left; padding-left: 20px;">
+  <!-- Right: Content -->
+  <div style="text-align: left;">
     <p>
       <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
     </p>
-    <ul>
+    <ul style="padding-left: 20px;">
       <li>🌱 I’m currently learning <strong>Python</strong></li>
       <li>👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a></li>
       <li>⚡ Fun fact: <strong>Turning ideas into code, one bug at a time</strong></li>
     </ul>
   </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
