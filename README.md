@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neelam Kumari</h1>
 <h3 align="center">App and MERN stack developer passionate about Machine Learning and AI</h3>
 
-<<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
