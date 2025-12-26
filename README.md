@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
 </p>
    
-- 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at <br/> "https://portfolio-three-rust-93.vercel.app/" 
+- 🌱 I’m currently learning **Python**<br/>
+- 👨‍💻 All of my projects are available at <br/> "https://portfolio-three-rust-93.vercel.app/" <br/>
 - ⚡ Fun fact **Turning ideas into code, one bug at a time**
     
 
