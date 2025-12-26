@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at <br/> https://portfolio-three-rust-93.vercel.app/
 
-- 📫 How to reach me **neelamkumari122005@gmail.com**
+- ⚡ Fun fact **Turning ideas into code, one bug at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
