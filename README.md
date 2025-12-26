@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact **Turning ideas into code, one bug at a time**
 
+- <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neelam-kumari-88938b331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelam-kumari-88938b331" height="30" width="40" /></a>
