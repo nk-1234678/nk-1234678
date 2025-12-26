@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src=""/>
 
-<p align="left">
+<p align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </p>
 
@@ -12,10 +12,6 @@
 - 👨‍💻 All of my projects are available at <br/> https://portfolio-three-rust-93.vercel.app/
 
 - ⚡ Fun fact **Turning ideas into code, one bug at a time**
-
-- <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
