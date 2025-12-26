@@ -63,9 +63,7 @@
 </p>
 
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username= nk-1234678 &layout=compact&theme=dark" alt="top languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-1234678&layout=compact&langs_count=8&theme=tokyonight)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nk-1234678&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
