@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [httpshttps://portfolio-three-rust-93.vercel.app/://portfolio-three-rust-93.vercel.app/](httpshttps://portfolio-three-rust-93.vercel.app/://portfolio-three-rust-93.vercel.app/)
+- 👨‍💻 All of my projects are available at [httpshttps://portfolio-three-rust-93.vercel.app/://portfolio-three-rust-93.vercel.app/]
 
 - 📫 How to reach me **neelamkumari122005@gmail.com**
 
