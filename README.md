@@ -6,7 +6,7 @@
 </p>
    
 - 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a>
+- 👨‍💻 All of my projects are available at <br/> "https://portfolio-three-rust-93.vercel.app/" 
 - ⚡ Fun fact **Turning ideas into code, one bug at a time**
     
 
