@@ -1,27 +1,15 @@
 <h1 align="center">Hi 👋, I'm Neelam Kumari</h1>
 <h3 align="center">App and MERN stack developer passionate about Machine Learning and AI</h3>
 
-
-
-<div style="display: flex; align-items: flex-start; border: 1px solid #ccc; padding: 15px; border-radius: 10px; max-width: 700px; margin: 20px auto; background-color: #f9f9f9;">
-  
-  <!-- Left: GIF -->
-  <div style="margin-right: 20px;">
-    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  </div>
-  
-  <!-- Right: Content -->
-  <div style="text-align: left;">
     <p>
       <img src="https://komarev.com/ghpvc/?username=nk-1234678&style=flat" alt="Profile views" />
     </p>
-    <ul style="padding-left: 20px;">
-      <li>🌱 I’m currently learning <strong>Python</strong></li>
-      <li>👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a></li>
-      <li>⚡ Fun fact: <strong>Turning ideas into code, one bug at a time</strong></li>
-    </ul>
-  </div>
-</div>
+   
+- 🌱 I’m currently learning **Python**
+- 👨‍💻 All of my projects are available at <br/> <a href="https://portfolio-three-rust-93.vercel.app/" target="_blank">portfolio</a></li>
+- ⚡ Fun fact **Turning ideas into code, one bug at a time**
+    
+
 
 
 
